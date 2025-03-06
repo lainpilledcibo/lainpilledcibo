@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="assets/lain.gif" width="500">
+</p>
 <!--
 **lainpilledcibo/lainpilledcibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
